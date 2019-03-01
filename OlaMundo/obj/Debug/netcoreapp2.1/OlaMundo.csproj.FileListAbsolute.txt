@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MyAula01\OlaMundo\bin\Debug\netcoreapp2.1\OlaMundo.deps.json
+C:\Users\user\source\repos\MyAula01\OlaMundo\bin\Debug\netcoreapp2.1\OlaMundo.runtimeconfig.json
+C:\Users\user\source\repos\MyAula01\OlaMundo\bin\Debug\netcoreapp2.1\OlaMundo.runtimeconfig.dev.json
+C:\Users\user\source\repos\MyAula01\OlaMundo\bin\Debug\netcoreapp2.1\OlaMundo.dll
+C:\Users\user\source\repos\MyAula01\OlaMundo\bin\Debug\netcoreapp2.1\OlaMundo.pdb
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.AssemblyInfo.cs
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.dll
+C:\Users\user\source\repos\MyAula01\OlaMundo\obj\Debug\netcoreapp2.1\OlaMundo.pdb
