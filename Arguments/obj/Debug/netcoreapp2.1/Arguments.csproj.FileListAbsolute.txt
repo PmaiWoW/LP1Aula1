@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.AssemblyInfo.cs
+C:\Users\user\source\repos\MyAula01\Arguments\bin\Debug\netcoreapp2.1\Arguments.deps.json
+C:\Users\user\source\repos\MyAula01\Arguments\bin\Debug\netcoreapp2.1\Arguments.runtimeconfig.json
+C:\Users\user\source\repos\MyAula01\Arguments\bin\Debug\netcoreapp2.1\Arguments.runtimeconfig.dev.json
+C:\Users\user\source\repos\MyAula01\Arguments\bin\Debug\netcoreapp2.1\Arguments.dll
+C:\Users\user\source\repos\MyAula01\Arguments\bin\Debug\netcoreapp2.1\Arguments.pdb
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.dll
+C:\Users\user\source\repos\MyAula01\Arguments\obj\Debug\netcoreapp2.1\Arguments.pdb
