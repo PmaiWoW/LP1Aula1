@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.AssemblyInfo.cs
+C:\Users\user\source\repos\MyAula01\TiposVarios\bin\Debug\netcoreapp2.1\TiposVarios.deps.json
+C:\Users\user\source\repos\MyAula01\TiposVarios\bin\Debug\netcoreapp2.1\TiposVarios.runtimeconfig.json
+C:\Users\user\source\repos\MyAula01\TiposVarios\bin\Debug\netcoreapp2.1\TiposVarios.runtimeconfig.dev.json
+C:\Users\user\source\repos\MyAula01\TiposVarios\bin\Debug\netcoreapp2.1\TiposVarios.dll
+C:\Users\user\source\repos\MyAula01\TiposVarios\bin\Debug\netcoreapp2.1\TiposVarios.pdb
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.dll
+C:\Users\user\source\repos\MyAula01\TiposVarios\obj\Debug\netcoreapp2.1\TiposVarios.pdb
