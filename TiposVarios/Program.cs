@@ -51,6 +51,13 @@ namespace TiposVarios
             Console.WriteLine("\nReais:\nfloat:{0}\ndouble:{1}\ndecimal:{2}", 
                 f, d, z);
 
+            //4 - Booleanas
+            bool bool1 = true;
+            bool bool2 = false;
+
+            Console.WriteLine("\nBooleanas:\nVerdadeiro: {0}\nFalso: {1}",
+                bool1, bool2);
+
             Console.ReadKey();
         }
     }
